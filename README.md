@@ -1,2 +1,1 @@
-# spartian
-University portal
+# University portal
